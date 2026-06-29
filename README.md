@@ -1,16 +1,13 @@
-## Hi there 👋
+### ¡Hola! Soy Kevin Arias 👋
 
-<!--
-**XsayenX/XsayenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas Informáticos con experiencia en desarrollo de software, optimización de scripts y gestión de bases de datos.
 
-Here are some ideas to get you started:
+🛠 **Tecnologías y Herramientas**
+* **Desarrollo:** Python, entornos Android (Gradle, NDK).
+* **Bases de Datos:** SQL, MySQL Workbench.
+* **Infraestructura y Redes:** Ngrok, Tailscale, configuración de servidores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyectos Destacados**
+* **[Nombre de tu proyecto Android]:** [Descripción breve del problema que resuelve].
+* **[Script de Optimización en Python]:** [Explicación de cómo este script mejora el rendimiento o automatiza una tarea específica].
+* **[Setup de Hosting/Servidor Local]:** [Descripción de cómo implementaste acceso externo mediante túneles seguros para servicios web].
